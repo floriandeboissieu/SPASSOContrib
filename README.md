@@ -1,2 +1,2 @@
 # SPASSOContrib
-Contains new functions for SPASSO package (https://www.google.com/search?client=ubuntu&channel=fs&q=SPASSO+package+doglioli&ie=utf-8&oe=utf-8)
+Contains new functions for SPASSO package (http://mio.pytheas.univ-amu.fr/~doglioli/SPASSOusersguide.pdf)
